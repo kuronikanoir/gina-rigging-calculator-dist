@@ -4,8 +4,8 @@
   "currencySymbol": "$",
   "artistName": "Farl Gina",
   "contact": "Discord: Farl Gina",
-  "lastModified": "10-July-2026",
-  "linkToNotion": "",
+  "sns": "https://x.com/FarlGina",
+  "link": "https://sites.google.com/view/farlgina/",
   "basePackages": [
     {
       "id": "chibi",
