@@ -11,20 +11,20 @@
       "id": "basic_rigging",
       "name": "Q版",
       "price": 6000,
-      "description": "角度：頭部XYZ、身體XYZ\n物理(晃動)：眼睛、頭髮衣物飾品、身體\n嘴型數：3*3\n呼吸\n基礎表情：驚訝、微笑眼、生氣(iOS only)、害羞\n進階：歪嘴(iOS only)、嘟嘴(iOS only) 不包含",
+      "description": "✦角度：頭部XYZ、身體XYZ\n✦物理(晃動)：眼睛、頭髮衣物飾品、身體\n✦嘴型數：3×3\n✔呼吸\n✔基礎表情：驚訝、微笑眼、生氣(iOS only)、害羞\n✘進階：歪嘴(iOS only)、嘟嘴(iOS only) 不包含",
       "includedFeatures": [{ "id": 6, "disabled": true }]
     },
     {
       "id": "standard_rigging",
       "name": "正比標準",
       "price": 10000,
-      "description": "角度：頭部XYZ、身體XYZ\n物理(晃動)：眼睛、頭髮衣物飾品、身體\n嘴型數：3*3\n呼吸\n基礎表情：驚訝、微笑眼、生氣(iOS only)、害羞\n進階：歪嘴(iOS only)、嘟嘴(iOS only) 不包含"
+      "description": "✦角度：頭部XYZ、身體XYZ\n✦物理(晃動)：眼睛、頭髮衣物飾品、身體\n✦嘴型數：3×3\n✔呼吸\n✔基礎表情：驚訝、微笑眼、生氣(iOS only)、害羞\n✘進階：歪嘴(iOS only)、嘟嘴(iOS only) 不包含"
     },
     {
       "id": "advanced_rigging",
       "name": "正比進階",
       "price": 15000,
-      "description": "角度：頭部XYZ、身體XYZ\n物理(晃動)：眼睛、頭髮衣物飾品進階、身體進階\n嘴型數：4*4\n呼吸\n基礎表情：驚訝、微笑眼、生氣(iOS only)、害羞\n進階：歪嘴(iOS only)、嘟嘴(iOS only)",
+      "description": "✦角度：頭部XYZ、身體XYZ\n✦物理(晃動)：眼睛、頭髮衣物飾品進階、身體進階\n✦嘴型數：4×4\n✔呼吸\n✔基礎表情：驚訝、微笑眼、生氣(iOS only)、害羞\n✔進階：歪嘴(iOS only)、嘟嘴(iOS only)",
       "includedFeatures": [
         { "id": 1, "included": true },
         { "id": 2, "included": true },
