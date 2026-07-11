@@ -11,20 +11,20 @@
       "id": "chibi",
       "name": "Chibi",
       "price": 6000,
-      "description": "Angles: Head XYZ, Body XYZ\nPhysics (movement): Eyes, Hair/Clothing/Accessories, Body\nMouth Forms: 3*3\nBreathing\nBasic Expressions: Surprise, Smiling Eyes, Angry (iOS only), Blush\nAdvanced: Crooked Mouth (iOS only), Pout (iOS only) not included",
+      "description": "✦Angles: Head XYZ, Body XYZ\n✦Physics (movement): Eyes, Hair/Clothing/Accessories, Body\n✦Mouth Forms: 3×3\n✔Breathing\n✔Basic Expressions: Surprise, Smiling Eyes, Angry (iOS only), Blush\n✘Advanced: Crooked Mouth (iOS only), Pout (iOS only) not included",
       "includedFeatures": [{ "id": 6, "disabled": true }]
     },
     {
       "id": "standard_proportion",
       "name": "Standard Proportion",
       "price": 10000,
-      "description": "Angles: Head XYZ, Body XYZ\nPhysics (movement): Eyes, Hair/Clothing/Accessories, Body\nMouth Forms: 3*3\nBreathing\nBasic Expressions: Surprise, Smiling Eyes, Angry (iOS only), Blush\nAdvanced: Crooked Mouth (iOS only), Pout (iOS only) not included"
+      "description": "✦Angles: Head XYZ, Body XYZ\n✦Physics (movement): Eyes, Hair/Clothing/Accessories, Body\n✦Mouth Forms: 3×3\n✔Breathing\n✔Basic Expressions: Surprise, Smiling Eyes, Angry (iOS only), Blush\n✘Advanced: Crooked Mouth (iOS only), Pout (iOS only) not included"
     },
     {
       "id": "advanced_proportion",
       "name": "Advanced Proportion",
       "price": 15000,
-      "description": "Angles: Head XYZ, Body XYZ\nPhysics (movement): Eyes, Advanced Hair/Clothing/Accessories, Advanced Body\nMouth Forms: 4*4\nBreathing\nBasic Expressions: Surprise, Smiling Eyes, Angry (iOS only), Blush\nAdvanced: Crooked Mouth (iOS only), Pout (iOS only)",
+      "description": "✦Angles: Head XYZ, Body XYZ\n✦Physics (movement): Eyes, Advanced Hair/Clothing/Accessories, Advanced Body\n✦Mouth Forms: 4×4\n✔Breathing\n✔Basic Expressions: Surprise, Smiling Eyes, Angry (iOS only), Blush\n✔Advanced: Crooked Mouth (iOS only), Pout (iOS only)",
       "includedFeatures": [
         { "id": 1, "included": true },
         { "id": 2, "included": true },
